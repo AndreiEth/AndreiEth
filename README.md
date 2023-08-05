@@ -27,7 +27,8 @@
 </a>
 
 #### Контакты:  
-[![badge](https://img.shields.io/badge/iur4.andrej@yandex.ru)](mailto:iur4.andrej@yandex.ru) [![badge](https://img.shields.io/badge/@nftishk)](https://t.me/nftishk)  
+<a href="https://t.me/nftishk" target="_blank" rel="nofollow"><img alt="Andrei's Telegram" width="24px" src="./images/telegram.png" /></a>
+iur4.andrej@yandex.ru
 
 #### Статистика:
 <p>
