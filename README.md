@@ -27,7 +27,6 @@
 </a>
 
 #### Контакты:  
-<a href="https://t.me/nftishk" target="_blank" rel="nofollow"><img alt="Andrei's Telegram" width="24px" src="./images/telegram.png" /></a>
 iur4.andrej@yandex.ru
 
 #### Статистика:
