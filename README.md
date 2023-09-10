@@ -1,6 +1,6 @@
 ### Привет! меня зовут Андрей 
 
-<h1>Меня вдохновляет:</h1>
+<h4>Меня вдохновляет:</h4>
 <ul>
     <li>👓 простой и лаконичный код</li>
     <li>👨‍💻 новые технологии</li>
@@ -30,14 +30,12 @@
 
 #### Люблю учиться:
 > [HTML Academy](https://htmlacademy.ru) &bullet;
-[Яндекс.Практикум](https://disk.yandex.ru) &bullet;
-<a href="https://www.codewars.com/users/AndreiEth">
-</a>
+[Яндекс.Практикум](https://disk.yandex.ru) 
 
 #### Контакты:  
-iur4.andrej@yandex.ru
-&nbsp;<a href="https://t.me/nftishk" target="_blank" rel="nofollow"><img alt="Andrei's Telegram" width="24px" src="./images/telegram.png" /></a>
-+7-904-123-9004
+> &nbsp;<a href="https://t.me/nftishk" target="_blank" rel="nofollow"><img alt="Andrei's Telegram" width="24px" src="./images/telegram.png" /></a> &bullet;
+> iur4.andrej@yandex.ru  &bullet;
+> +7-904-123-9004 
 
 #### Статистика:
 <p>
